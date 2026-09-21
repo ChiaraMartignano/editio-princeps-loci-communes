@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elenco delle fonti estratte (Uniche e Ordinate)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Documento generato automaticamente.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Estratto dal file TEI sorgente.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <bibl>Cor.</bibl>
+            <bibl>Corinth.</bibl>
+            <bibl>Ioan.</bibl>
+            <bibl>Thes.</bibl>
+            <bibl>Thess.</bibl>
+            <bibl>Tim.</bibl>
+            <bibl>Timoth.</bibl>
+            <bibl>Cor.</bibl>
+            <bibl>Corinth.</bibl>
+            <bibl>Pet.</bibl>
+            <bibl>22</bibl>
+            <bibl>23.</bibl>
+            <bibl>30.</bibl>
+            <bibl>Acto.</bibl>
+            <bibl>Actorum</bibl>
+            <bibl>Aeschines.</bibl>
+            <bibl>Aeschinis.</bibl>
+            <bibl>Aesopus.</bibl>
+            <bibl>Agapeti.</bibl>
+            <bibl>Agathonis.</bibl>
+            <bibl>Agesilai.</bibl>
+            <bibl>Alexander.</bibl>
+            <bibl>Alexandri.</bibl>
+            <bibl>Amphidis.</bibl>
+            <bibl>Anacharsidis.</bibl>
+            <bibl>Anacharsis.</bibl>
+            <bibl>Anacreon.</bibl>
+            <bibl>Anacreontis.</bibl>
+            <bibl>Anaxagorae.</bibl>
+            <bibl>Anaximenis.</bibl>
+            <bibl>Antagoras.</bibl>
+            <bibl>Antigoni regis.</bibl>
+            <bibl>Antigoni.</bibl>
+            <bibl>Antiphanis.</bibl>
+            <bibl>Antiphontis.</bibl>
+            <bibl>Antisthenis.</bibl>
+            <bibl>Apelles.</bibl>
+            <bibl>Apollinis Democratis.</bibl>
+            <bibl>Apollonii.</bibl>
+            <bibl>Apostoli Iudae.</bibl>
+            <bibl>Apostoli.</bibl>
+            <bibl>Appollonii.</bibl>
+            <bibl>Arcesilaus.</bibl>
+            <bibl>Archimedis.</bibl>
+            <bibl>Aristidis.</bibl>
+            <bibl>Aristippi.</bibl>
+            <bibl>Aristippus.</bibl>
+            <bibl>Aristonymi.</bibl>
+            <bibl>Aristophanes.</bibl>
+            <bibl>Aristoteles.</bibl>
+            <bibl>Aristotelis.</bibl>
+            <bibl>Arriani.</bibl>
+            <bibl>Basilii.</bibl>
+            <bibl>Beati Ephraim</bibl>
+            <bibl>Biantis.</bibl>
+            <bibl>Bias.</bibl>
+            <bibl>Bion.</bibl>
+            <bibl>Cato.</bibl>
+            <bibl>Catonis.</bibl>
+            <bibl>Cenopidae.</bibl>
+            <bibl>Chabriae.</bibl>
+            <bibl>Chaeremonis.</bibl>
+            <bibl>Chancleae.</bibl>
+            <bibl>Charetis.</bibl>
+            <bibl>Charicleae.</bibl>
+            <bibl>Chilo.</bibl>
+            <bibl>Choricii.</bibl>
+            <bibl>Chriis.</bibl>
+            <bibl>Chrisostomi</bibl>
+            <bibl>Chrysippi.</bibl>
+            <bibl>Chrysostomi</bibl>
+            <bibl>Chrysostomi.</bibl>
+            <bibl>Cleanthes.</bibl>
+            <bibl>Cleanthis.</bibl>
+            <bibl>Clementis Romae episcopi.</bibl>
+            <bibl>Clementis Romani.</bibl>
+            <bibl>Clementis.</bibl>
+            <bibl>Cleobulus.</bibl>
+            <bibl>Clitarchi.</bibl>
+            <bibl>Coloss. 3.</bibl>
+            <bibl>Coricii.</bibl>
+            <bibl>Coriscus.</bibl>
+            <bibl>Crates.</bibl>
+            <bibl>Cratetis.</bibl>
+            <bibl>Cratonis.</bibl>
+            <bibl>Critiae.</bibl>
+            <bibl>Cypsei.</bibl>
+            <bibl>Cypseli Cor.</bibl>
+            <bibl>Cypseli.</bibl>
+            <bibl>Cypselli.</bibl>
+            <bibl>Cyri.</bibl>
+            <bibl>Cyrili.</bibl>
+            <bibl>Cyrilli.</bibl>
+            <bibl>Cyrus.</bibl>
+            <bibl>Demadis.</bibl>
+            <bibl>Demetrii Phalerei.</bibl>
+            <bibl>Demetrii phal.</bibl>
+            <bibl>Democratis.</bibl>
+            <bibl>Democriti, alias Theocriti.</bibl>
+            <bibl>Democriti.</bibl>
+            <bibl>Democritus.</bibl>
+            <bibl>Demonactis.</bibl>
+            <bibl>Demosthenes.</bibl>
+            <bibl>Demosthenis, alias Democriti.</bibl>
+            <bibl>Demosthenis.</bibl>
+            <bibl>Didymi.</bibl>
+            <bibl>Diodori.</bibl>
+            <bibl>Diogenes.</bibl>
+            <bibl>Diogenis.</bibl>
+            <bibl>Dionis Chrysostomi.</bibl>
+            <bibl>Dionysii Areopagitae.</bibl>
+            <bibl>Dionysii Halicarnassei.</bibl>
+            <bibl>Dionysii.</bibl>
+            <bibl>Diphili.</bibl>
+            <bibl>Ecclesiastae 10.</bibl>
+            <bibl>Ecclesiastae 11.</bibl>
+            <bibl>Ecclesiastae 17.</bibl>
+            <bibl>Ecclesiastae 5.</bibl>
+            <bibl>Ecclesiastes 7.</bibl>
+            <bibl>Eiusdem.</bibl>
+            <bibl>Empedoclis.</bibl>
+            <bibl>Epaminondas.</bibl>
+            <bibl>Ephes. 2.</bibl>
+            <bibl>Ephes. 4.</bibl>
+            <bibl>Ephes. 5.</bibl>
+            <bibl>Ephes. 6.</bibl>
+            <bibl>Epicharmi.</bibl>
+            <bibl>Epicliti.</bibl>
+            <bibl>Epicteti.</bibl>
+            <bibl>Epicuri.</bibl>
+            <bibl>Esaia 3.</bibl>
+            <bibl>Esaiae.</bibl>
+            <bibl>Eteoclis.</bibl>
+            <bibl>Euclides.</bibl>
+            <bibl>Eumenes.</bibl>
+            <bibl>Euripidis ex Andromacha.</bibl>
+            <bibl>Euripidis in Antiope.</bibl>
+            <bibl>Euripidis in Danae</bibl>
+            <bibl>Euripidis.</bibl>
+            <bibl>Eusebii.</bibl>
+            <bibl>Evagrif.</bibl>
+            <bibl>Evagrii.</bibl>
+            <bibl>Eveni.</bibl>
+            <bibl>Ex Acliani historia.</bibl>
+            <bibl>Ex Aristig.</bibl>
+            <bibl>Ex Aristip. sententiis.</bibl>
+            <bibl>Ex Aristippi sententiis.</bibl>
+            <bibl>Ex Aristonymi scriptis.</bibl>
+            <bibl>Ex Dionis</bibl>
+            <bibl>Ex Dionis Chronicis.</bibl>
+            <bibl>Ex Epicteti Enchiridio, et Isocrate.</bibl>
+            <bibl>Ex Epicteti et Isocratis sententiis.</bibl>
+            <bibl>Ex Epicteti sententiis.</bibl>
+            <bibl>Ex Epicteto et Isocrate.</bibl>
+            <bibl>Ex Nicolai Collectaneis.</bibl>
+            <bibl>Ex Nicolai Collectione.</bibl>
+            <bibl>Ex Nicolai collectaneis.</bibl>
+            <bibl>Ex Phavorini commentariis</bibl>
+            <bibl>Ex Phavorini commentariis.</bibl>
+            <bibl>Ex Phavorino.</bibl>
+            <bibl>Ex Plutarchi Historiis.</bibl>
+            <bibl>Ex Serini scriptis.</bibl>
+            <bibl>Ex dictis septen sapientum.</bibl>
+            <bibl>Ex patribus.</bibl>
+            <bibl>Ex scriptis Phavorini.</bibl>
+            <bibl>Ex sententiis Democriti, Euchindii, Isocratis.</bibl>
+            <bibl>Ex sententiis Epicteti</bibl>
+            <bibl>Ex sententiis Epicteti et Isocratis.</bibl>
+            <bibl>Ex sententiis Epicteti,</bibl>
+            <bibl>Ex sententiis Epicteti.</bibl>
+            <bibl>Forte Gorgias.</bibl>
+            <bibl>Gaii.</bibl>
+            <bibl>Galat. 6.</bibl>
+            <bibl>Gerini.</bibl>
+            <bibl>Gerogorii Nys.</bibl>
+            <bibl>Glycon.</bibl>
+            <bibl>Glyconis.</bibl>
+            <bibl>Greg Nyss.</bibl>
+            <bibl>Greg. Nyss.</bibl>
+            <bibl>Greg. Nysseni.</bibl>
+            <bibl>Gregorii Nyss.</bibl>
+            <bibl>Gregorii.</bibl>
+            <bibl>Heb. 12.</bibl>
+            <bibl>Hebr. 12.</bibl>
+            <bibl>Heracliti physici.</bibl>
+            <bibl>Heracliti.</bibl>
+            <bibl>Hermis et Isidori.</bibl>
+            <bibl>Herodis.</bibl>
+            <bibl>Herodoti.</bibl>
+            <bibl>Hieronis.</bibl>
+            <bibl>Hippothoontis.</bibl>
+            <bibl>Hittaci philosophi.</bibl>
+            <bibl>Hyperidis.</bibl>
+            <bibl>Iacob.</bibl>
+            <bibl>Iacobi</bibl>
+            <bibl>Ibidem.</bibl>
+            <bibl>Idem in Cratylo.</bibl>
+            <bibl>Ignatii.</bibl>
+            <bibl>Indus sagittarius.</bibl>
+            <bibl>Ioan.</bibl>
+            <bibl>Ioan. Climacis.</bibl>
+            <bibl>Ioannis</bibl>
+            <bibl>Iob.</bibl>
+            <bibl>Iosephi.</bibl>
+            <bibl>Ioseppi.</bibl>
+            <bibl>Isaei.</bibl>
+            <bibl>Isidori Pelusiotae.</bibl>
+            <bibl>Isidori.</bibl>
+            <bibl>Isoc.</bibl>
+            <bibl>Isocra. Democriti.</bibl>
+            <bibl>Isocrat. ad Demonic.</bibl>
+            <bibl>Isocrates.</bibl>
+            <bibl>Isocratis.</bibl>
+            <bibl>Lasi.</bibl>
+            <bibl>Leonidae.</bibl>
+            <bibl>Leucippes</bibl>
+            <bibl>Leucippes.</bibl>
+            <bibl>Leucippi.</bibl>
+            <bibl>LeucppesLeucippes.</bibl>
+            <bibl>Libanii.</bibl>
+            <bibl>Liciani.</bibl>
+            <bibl>Lindi.</bibl>
+            <bibl>Lucae</bibl>
+            <bibl>Luciani.</bibl>
+            <bibl>Lyconis.</bibl>
+            <bibl>Lycurgi.</bibl>
+            <bibl>Lycurgus.</bibl>
+            <bibl>Lysandri.</bibl>
+            <bibl>Marci</bibl>
+            <bibl>Mat. 10. Lu. 21.</bibl>
+            <bibl>Matth.</bibl>
+            <bibl>Matthaei</bibl>
+            <bibl>Menandri.</bibl>
+            <bibl>Menedemus.</bibl>
+            <bibl>Metrodori.</bibl>
+            <bibl>Milesii.</bibl>
+            <bibl>Moschionis</bibl>
+            <bibl>Musonii.</bibl>
+            <bibl>Naucrates.</bibl>
+            <bibl>Nicias.</bibl>
+            <bibl>Nicocles.</bibl>
+            <bibl>Nicoclis.</bibl>
+            <bibl>Nicostrati.</bibl>
+            <bibl>Nili.</bibl>
+            <bibl>Oenopidae.</bibl>
+            <bibl>Pelopidas.</bibl>
+            <bibl>Perithi.</bibl>
+            <bibl>Phalaridis.</bibl>
+            <bibl>Phavorini.</bibl>
+            <bibl>Philemonis.</bibl>
+            <bibl>Philip. 4.</bibl>
+            <bibl>Philippi.</bibl>
+            <bibl>Philisci.</bibl>
+            <bibl>Philistionis.</bibl>
+            <bibl>Philonidae.</bibl>
+            <bibl>Philonis uxor.</bibl>
+            <bibl>Philonis.</bibl>
+            <bibl>Philoxenus.</bibl>
+            <bibl>Phocionis.</bibl>
+            <bibl>Pisomani Dionis.</bibl>
+            <bibl>Pittaci.</bibl>
+            <bibl>Plato.</bibl>
+            <bibl>Platonis.</bibl>
+            <bibl>Plutarchi, alias Socratis.</bibl>
+            <bibl>Plutarchi.</bibl>
+            <bibl>Polyaeni.</bibl>
+            <bibl>Posidippi.</bibl>
+            <bibl>Procopii Sophistae.</bibl>
+            <bibl>Procopii soph.</bibl>
+            <bibl>Protagorae.</bibl>
+            <bibl>Prover. 14.</bibl>
+            <bibl>Proverb. 14.</bibl>
+            <bibl>Pyrhagorae.</bibl>
+            <bibl>Pyrrhus.</bibl>
+            <bibl>Pythagorae.</bibl>
+            <bibl>Pythagoras.</bibl>
+            <bibl>Regini.</bibl>
+            <bibl>Rom. 11.</bibl>
+            <bibl>Romuli.</bibl>
+            <bibl>Romulus.</bibl>
+            <bibl>S Basilii.</bibl>
+            <bibl>S. Athanasii.</bibl>
+            <bibl>S. Basilii.</bibl>
+            <bibl>S. Ignatii.</bibl>
+            <bibl>S.Basilii.</bibl>
+            <bibl>Sap. Solom. 2.</bibl>
+            <bibl>Sap. Solom. 5.</bibl>
+            <bibl>Scleriae.</bibl>
+            <bibl>Secundus.</bibl>
+            <bibl>Serini.</bibl>
+            <bibl>Serxis.</bibl>
+            <bibl>Severiani Gabalonis.</bibl>
+            <bibl>Severiani.</bibl>
+            <bibl>Sexti.</bibl>
+            <bibl>Simonidis.</bibl>
+            <bibl>Sirach 10.</bibl>
+            <bibl>Sirach.</bibl>
+            <bibl>Sirach. 30</bibl>
+            <bibl>Socrates loquitur.</bibl>
+            <bibl>Socrates.</bibl>
+            <bibl>Socratis.</bibl>
+            <bibl>Solom 26.</bibl>
+            <bibl>Solom. Sap. 3.</bibl>
+            <bibl>Solomonis 1.</bibl>
+            <bibl>Solon.</bibl>
+            <bibl>Solonis.</bibl>
+            <bibl>Sophocles.</bibl>
+            <bibl>Sophoclis in Aiace.</bibl>
+            <bibl>Sophoclis.</bibl>
+            <bibl>Sotatis.</bibl>
+            <bibl>Sotionis ex disputatione de ira.</bibl>
+            <bibl>Sotionis ex lib. de Ira.</bibl>
+            <bibl>Stilponis.</bibl>
+            <bibl>Stratonici.</bibl>
+            <bibl>Thales.</bibl>
+            <bibl>Thaletis.</bibl>
+            <bibl>Theagis Pythagorei.</bibl>
+            <bibl>Theagis.</bibl>
+            <bibl>Themistocles.</bibl>
+            <bibl>Theocriti.</bibl>
+            <bibl>Theognidis.</bibl>
+            <bibl>Theologi</bibl>
+            <bibl>Theologi.</bibl>
+            <bibl>Theophrasti.</bibl>
+            <bibl>Theophylacti Simocati.</bibl>
+            <bibl>Theopompi.</bibl>
+            <bibl>Theotimi.</bibl>
+            <bibl>Thespidis.</bibl>
+            <bibl>Throphilus.</bibl>
+            <bibl>Thucydidis.</bibl>
+            <bibl>Timon.</bibl>
+            <bibl>Xanthi.</bibl>
+            <bibl>Xanthippe.</bibl>
+            <bibl>Xenocrates.</bibl>
+            <bibl>Xenophontis philosophi.</bibl>
+            <bibl>Xenophontis.</bibl>
+            <bibl>Zaleuci.</bibl>
+            <bibl>Zeno.</bibl>
+            <bibl>Zenon.</bibl>
+            <bibl>Zenonis.</bibl>
+            <bibl>Zeuavis.</bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>
