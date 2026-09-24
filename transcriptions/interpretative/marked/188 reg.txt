@@ -53,7 +53,7 @@ Hyperidis. | Duabus de causis ab iniuriis solent homines abstinere, aut metu aut
 
 Socratis. | Quae ab altero passi indignanter fertis, videte ne haec eadem aliis faciatis.
 
-Philemonis. | lustus est non qui iniuriam non facit:
+Philemonis. | Iustus est non qui iniuriam non facit:
 Sed qui cum possit facere iniuriam, non vult.
 
 Agesilai. | Fortitudinis nullus est usus absente iustitia: si vero iusti forent omnes, nihil iam for/
@@ -69,5 +69,5 @@ scito, sed ipsam solam iustitiam.
 
 Cum iustitia viventi tutus est omnis locus.
 
-Pythagorae. | Plus torquetur iniuriam faciens dum in conscientia cruclatur, quam qui corpore
+Pythagorae. | Plus torquetur iniuriam faciens dum in conscientia cruciatur, quam qui corpore
 plagas accipit et caeditur.
