@@ -1893,24 +1893,24 @@
       <p xml:id="EP_c6_p22" n="22">Non tam febris tabefacere solet corporis naturam, quam animum a suis amoribus disiunctio.</p>
       
       
-      <p xml:id="EP_c6_p23" n="23">Nihil est concordiae comparandum, unus enim quodammodo multiplicatur in hunc
-        modum. Si concordes fuerint duo aut decem, unus non est unus, sed illorum quisque
-        decuplex redditur, inveniesque in decem unum, atque in uno decem. Quod si hostes illis
-        aliqui sint, qui in unum impetum fecerit, is quasi in decem irruerit, sic capitur. Eget
-        unus, at non premitur egestate: nam maiori parte et numero inopia obumbratur: illorum unusquisque
-        viginti habet manus, ac viginti oculos, totidemque pedes, animas item
-        decem: non enim suis tantum, sed illorum etiam membris quisque utitur in omnibus, ac si
-        centum forent, idem rursus contingeret. Idem apud Persas et Romae esse potest: quodque
-        natura non potest, id amicitia potest. Si igitur mille habeas amicos aui etiam duo milia amicorum,
-        cogitare debes quo rursus evadat numerus. Hoc enim est admirabile
-        unum millesimum fieri: optabilius enim esset solem nobis extingui, quam amicis orbari.
-        Etenim multi solem videntes in tenebris sunt, at qui multos habent amicos ne incidere quidem possunt
-        in calamitatem. Nihil enim nihil amicitia et charitate suavius
-        esse possit: quid enim est quod non efficiat verus amicus? quam voluptatem non afferat,
-        quam utilitatem, quam securitatem? denique infinitis thesauris amicum verum immensis anteferendum
-        iudicabis. Et quemadmodum res splendidae lucem quandam in circunsusa et vicina loca diffundunt:
-        sic amici ubicunque versati fuerint, gratiam et suavitatem spirant et emittunt, ut satius sit in
-        tenebris versari quam carere amicis.</p>
+      <p xml:id="EP_c6_p23" n="23">Nihil est concordiae comparandum, unus enim quodammodo
+          multiplicatur in hunc modum. Si concordes fuerint duo aut decem, unus non est unus, sed
+          illorum quisque decuplex redditur, inveniesque in decem unum, atque in uno decem. Quod si
+          hostes illis aliqui sint, qui in unum impetum fecerit, is quasi in decem irruerit, sic
+          capitur. Eget unus, at non premitur egestate: nam maiori parte et numero inopia
+          obumbratur. Illorum unusquisque viginti habet manus, ac viginti oculos, totidemque pedes,
+          animas item decem: non enim suis tantum, sed illorum etiam membris quisque utitur in
+          omnibus, ac si centum forent, idem rursus contingeret. Idem apud Persas et Romae esse
+          potest: quodque natura non potest, id amicitia potest. Si igitur mille habeas amicos aui
+          etiam duo milia amicorum, cogitare debes quo rursus evadat numerus. Hoc enim est
+          admirabile unum millesimum fieri: optabilius enim esset solem nobis extingui, quam amicis
+          orbari. Etenim multi solem videntes in tenebris sunt, at qui multos habent amicos ne
+          incidere quidem possunt in calamitatem. Nihil enim nihil amicitia et charitate suavius
+          esse possit: quid enim est quod non efficiat verus amicus? Quam voluptatem non afferat,
+          quam utilitatem, quam securitatem? Denique infinitis thesauris amicum verum immensis
+          anteferendum iudicabis. Et quemadmodum res splendidae lucem quandam in circunfusa et
+          vicina loca diffundunt: sic amici ubicunque versati fuerint, gratiam et suavitatem spirant
+          et emittunt, ut satius sit in tenebris versari quam carere amicis.</p>
       
       
       <p xml:id="EP_c6_p24" n="24">
@@ -1934,13 +1934,11 @@
       
       
       <p xml:id="EP_c6_p26" n="26">
-        
-        
-        <ref type="source"><choice><abbr>Philonis.</abbr><expan/></choice></ref>
-        
-        Eum amicum existimare debemus, qui et auxiliari, et vicissim prodesse vult, etiamsi non possit.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Philonis.</abbr>
+              <expan/>
+            </choice></ref> Eum amicum existimare debemus, qui et auxiliari, et vicissim prodesse
+          vult, etiam si non possit. </p>
       
       
       <p xml:id="EP_c6_p27" n="27">Qui ab amico perfido consilium accipit, idem facit, quod qui ex poculo aureo venenum bibit.</p>
@@ -1972,13 +1970,12 @@
       
       
       <p xml:id="EP_c6_p34" n="34">
-        
-        
-        <ref type="source"><choice><abbr>Eiusdem.</abbr><expan/></choice></ref>
-        
-        Nullius amicitiam parato prius, quam superiorem amicitiam quemadmodum coluerit inquisieris: existimato enim illum talem erga te futurum, qualis erga illos fuerit.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Eiusdem.</abbr>
+              <expan/>
+            </choice></ref> Nullius amicitiam parato prius, quam superiorem amicitiam quemadmodum
+          coluerit inquisieris; existimato enim illum talem erga te futurum, qualis erga illos
+          fuerit. </p>
       
       
       <p xml:id="EP_c6_p35" n="35">Lente fias amicus, factus autem permanere conator. Aeque enim turpe est multos
@@ -1989,9 +1986,9 @@
         igni exploramus, amicos autem in rebus adversis dignoscimus.</p>
       
       
-      <p xml:id="EP_c6_p37" n="37">Vera amicitia tria requirit maxime: Virtutem tanquam honestam, et familiaritatem ut iucundam,
-        et usum tanquam necessarium: nam ubi iudicaris, recipere debes,
-        et congressu laetari, et si egeas uti.</p>
+      <p xml:id="EP_c6_p37" n="37">Vera amicitia tria requirit maxime: virtutem tanquam honestam, et
+          familiaritatem ut iucundam, et usum tanquam necessarium. Nam ubi iudicaris, recipere
+          debes, et congressu laetari, et si egeas uti.</p>
       
       
       <p xml:id="EP_c6_p38" n="38">Equi virtutem in praelio, amici autem fidem in calamitate exploramus et cernimus.</p>
