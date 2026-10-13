@@ -1953,7 +1953,8 @@
       <p xml:id="EP_c6_p30" n="30">Multi amicos sibi deligunt, non optimos, sed abundantissimos.</p>
       
       
-      <p xml:id="EP_c6_p31" n="31">Multi cum videantur amici, amici non sunt: et contra, multi cum non videantur, amici tamen sunt: docti igitur et sapientis est unumquenque cognoscere.</p>
+      <p xml:id="EP_c6_p31" n="31">Multi cum videantur amici, amici non sunt; et contra, multi cum
+          non videantur, amici tamen sunt. Docti igitur et sapientis est unumquenque cognoscere.</p>
       
       
       <p xml:id="EP_c6_p32" n="32">Eorum fugienda amicitia est, quorum animus ambiguus et inconstans est.</p>
@@ -2011,8 +2012,8 @@
           <ref type="source"><choice>
               <abbr>Ex Dionis Chronicis.</abbr>
               <expan/>
-            </choice></ref> Quot amicos pararis, tot oculos habes, quibus quae velis videas: tot
-          aures quibus quae decet, audias: tot consilia quibus de iis quae conducunt, consultare et
+            </choice></ref> Quot amicos pararis, tot oculos habes, quibus quae velis videas; tot
+          aures quibus quae decet, audias; tot consilia quibus de iis quae conducunt, consultare et
           prospicere possis. Non enim aliter se habet plurium amicitia, quam si cui Deus unum corpus
           habenti multas daret animas, quae omnes illi providerent et consulerent. </p>
       
@@ -2031,17 +2032,15 @@
       
       
       <p xml:id="EP_c6_p46" n="46">
-        
-        
-        <ref type="source"><choice><abbr>Demosthenis.</abbr><expan/></choice></ref>
-        
-        Quemadmodum vinum moribus bibentium attemperatur: sic amicitia utentiumaffectibus.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Demosthenis.</abbr>
+              <expan/>
+            </choice></ref> Quemadmodum vinum moribus bibentium attemperatur, sic amicitia utentium
+          affectibus. </p>
       
       
-      <p xml:id="EP_c6_p47" n="47">Is cum obiiceretur ei ut probrum, quod cum improbis versaretur: Optimus, inquit,
-        est medicus qui a caeteris omnibus desperatos recipit.</p>
+      <p xml:id="EP_c6_p47" n="47">Is cum obiiceretur ei ut probrum, quod cum improbis versaretur,
+          "Optimus", inquit, "est medicus qui a caeteris omnibus desperatos recipit".</p>
       
       
       <p xml:id="EP_c6_p48" n="48">Idem omnibus placere difficillimum esse dicebat.</p>
@@ -2061,7 +2060,9 @@
       <p xml:id="EP_c6_p50" n="50">Importune amare nihil est aliud quam odisse. Verum amicum in rebus adversis ne timeto.</p>
       
       
-      <p xml:id="EP_c6_p51" n="51">Idem Croesum interrogans, quid esset maximum et pretiosissimum ex regno consecutus, illeque respondisset, ut hostes ulcisceretur, et amicos beneficio afficeret: multoinquit, melius fecisses, si et illos tibi amicos ascivisses.</p>
+      <p xml:id="EP_c6_p51" n="51">Idem Croesum interrogans, quid esset maximum et pretiosissimum ex
+          regno consecutus, illeque respondisset, ut hostes ulcisceretur, et amicos beneficio
+          afficeret, "Multo", inquit, "melius fecisses, si et illos tibi amicos ascivisses".</p>
       
       
       <p xml:id="EP_c6_p52" n="52">
@@ -2086,19 +2087,18 @@
         
         <ref type="source"><choice><abbr>Euripidis.</abbr><expan/></choice></ref>
         
-        Omnes locupletum vocari se volunt,Et esse amicos: usus hoc me perdocet.
+        Omnes locupletum vocari se volunt, et esse amicos: usus hoc me perdocet.
       
       </p>
       
       
       <p xml:id="EP_c6_p56" n="56">
-        
-        
-        <ref type="source"><choice><abbr>Clitarchi.</abbr><expan/></choice></ref>
-        
-        Tuas calamitates, amicorum esse existimato: tuas autem prosperitates amicis communicato: mortuos amicos lugere haud est generosum, providere autem domesticis diligentiae est.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Clitarchi.</abbr>
+              <expan/>
+            </choice></ref> Tuas calamitates, amicorum esse existimato; tuas autem prosperitates
+          amicis communicato. Mortuos amicos lugere haud est generosum, providere autem domesticis
+          diligentiae est. </p>
       
       
       <p xml:id="EP_c6_p57" n="57">
@@ -2128,11 +2128,12 @@
       <p xml:id="EP_c6_p62" n="62">Sic decet nos amare tanquam osuri simus, et odisse quasi amaturi.</p>
       
       
-      <p xml:id="EP_c6_p63" n="63">Ut aurum igni probatur,Sic erga amicos benevolentia tempore cernitur.</p>
+      <p xml:id="EP_c6_p63" n="63">Ut aurum igni probatur, sic erga amicos benevolentia tempore
+          cernitur.</p>
       
       
-      <p xml:id="EP_c6_p64" n="64">Qui tempore secundae fortunae amico adulatur,
-        <lb/>Temporis est amicus, non amici.</p>
+      <p xml:id="EP_c6_p64" n="64">Qui tempore secundae fortunae amico adulatur, temporis est
+          amicus, non amici.</p>
       
       
       <p xml:id="EP_c6_p65" n="65">Insipientibus amicis ne utitor: nam tu etiam insipiens omnino vocaberis.</p>
