@@ -1,0 +1,145 @@
+1 Περὶ βίου ἀρετῆς καὶ κακίας
+2 Περὶ φρονήσεως
+3 Περὶ ἁγνείας καὶ σωφροσύνης
+4 Περὶ ἀνδρείας καὶ ἱσχύος
+5 Περὶ δικαιοσύνης
+6 Περὶ φίλων καὶ φιλαδελφίας
+7 Περὶ ἐλεημοσύνης
+7\* Περὶ τῶν ἐλεημοσύνην μὴ ποιούντων
+8 Περὶ εὐεργεσίας καὶ χάριτος
+9 Περὶ ἀρχῆς καὶ ἐξουσίας
+10 Περὶ ψεύδoυς καὶ διαβολῆς
+11 Περὶ κολακείας
+12 Περὶ πλούτου καὶ πενίας καὶ φιλαργυρίας
+13 Περὶ αὐταρκείας
+14 Περὶ προσευχῆς
+15 Περὶ διδαχῆς καὶ λόγων καὶ ὁμιλίας
+16 Περὶ νουθεσίας
+17 Περὶ παιδείας καὶ φιλοσοφίας καὶ παίδων ἀνατροφῆς
+18 Περὶ εὐτυχίας καὶ δυστυχίας
+19 Περὶ ὀργῆς καὶ θυμοῦς
+20 Περὶ σιωπῆς καὶ ἀπορρήτων
+21 Περὶ πολυπραγμοσύνης καὶ ἡσυχίας
+22 Περὶ πλεονεξίας
+23 Περὶ τιμῆς γονέων καὶ φιλοτεκνίας
+24 Περὶ φόβου
+25 Περὶ τῶν ταχέως μεταβαλλομένων καὶ περὶ μετανοίας
+26 Περὶ ἁμαρτίας καὶ ἐξαγορεύσεως
+27 Περὶ ἀκρασίας καὶ γαστριμαργίας
+28 Περὶ λύπης καὶ ἀθυμίας
+29 Περὶ ὕπνου
+30 Περὶ μέθης
+31 Περὶ παρρησίας καὶ τοῦ ἐλέγχειν
+32 Περὶ φιλοπονίας
+33 Περὶ ὅρκου
+34 Περὶ κενοδοξίας
+35 Περὶ ἀληθείας καὶ ψεύδους
+36 Περὶ ἐπαίνου
+37 Περὶ κάλλους
+38 Περὶ μελλούσης κρίσεως
+39 Περὶ δόξης
+40 Περὶ γλωσσαλγίας
+41 Περὶ προνοίας
+42 Περὶ ταπεινοφροσύνης
+43 Περὶ ἰατρῶν
+44 Περὶ πίστεως
+45 Περὶ μνήμης
+46 Περὶ ψυχῆς
+47 Περὶ φθόνου
+48 Περὶ ἑκουσίου καὶ ἀκουσίου
+49 Περὶ τοῦ γνῶθι σαυτόν
+50 Περὶ χρηστότητος
+51 Περὶ νόμου
+52 Περὶ λογικοῦ καὶ λογισμοῦ
+53 Περὶ ἀφροσύνης
+54 Περὶ ἀσωτίας
+55 Περὶ συνηθείας καὶ ἔθους
+56 Περὶ εὐγενείας καὶ δυσγενείας
+57 Περὶ γέλωτος
+58 Περὶ ἐνυπνίων
+59 Περὶ ἀκακίας καὶ μνησικακίας
+60 Περί βίου ἀνωμαλίας
+61 Περί τοῦ ὅτι δεῖ τιμᾶν ἀρετὴν καὶ κολάζειν κακίαν
+62 Περί τοῦ ὅτι εὔκολος ἡ κακία καὶ δυσάρεστος ἡ ἀρετῆς
+63 Περὶ φιλαυτίας
+64 Περὶ ὅτι οὐκ ἀεὶ τὸ πλεῖον ἄριστον
+65 Περὶ θανάτου
+66 Περὶ εἰρήνης καὶ πολέμου
+67 Περὶ ἐλπίδος
+68 Περὶ γυναικῶν
+69 Περὶ ἀντιλογίας καὶ θρασύτητος
+70 Περὶ γήρως καὶ νεότητος
+71 Περὶ ὑπομονῆς καὶ μακροθυμίας
+
+1 Sulla vita virtuosa e sulla malvagità
+2 Sulla saggezza
+3 Sulla castità e sulla moderazione
+4 Sul coraggio e sulla forza
+5 Sulla giustizia
+6 Sugli amici e sulla fratellanza
+7 Sulla carità
+7\* Su coloro che non praticano la carità 
+8 Sulla beneficenza e sulla grazia
+9 Sul governo e sull’autorità
+10 Sulla menzogna e sulla calunnia
+11 Sulla lusinga
+12 Sulla ricchezza, sulla povertà e sull’avidità
+13 Sull’autosufficienza
+14 Sulla preghiera
+15 Sull’insegnamento, sui discorsi e sulla conversazione
+16 Sulla esortazione
+17 Sull’educazione, la filosofia e l’allevamento dei bambini
+18 Sulla felicità e l’infelicità
+19 Sulla rabbia e l’ira
+20 Sul silenzio e sui segreti
+21 Sulla frenesia e sulla tranquillità
+22 Sulla cupidigia
+23 Sul rispetto dei genitori e sull’amore per i figli
+24 Sulla paura
+25 Su coloro che cambiano rapidamente e sul pentimento
+26 Sul peccato e sulla confessione
+27 Sull’intemperanza e sulla gola
+28 Sul dolore e sulla malinconia
+29 Sul sonno
+30 Sull’ubriachezza
+31 Sulla franchezza e sul rimprovero
+32 Sulla diligenza
+33 Sul giuramento
+34 Sulla vanagloria
+35 Sul vero e sul falso
+36 Sulla lode
+37 Sulla bellezza
+38 Sul giudizio futuro
+39 Sulla gloria
+40 Sulla loquacità
+41 Sulla previdenza
+42 Sulla umiltà
+43 Sui medici
+44 Sulla fede
+45 Sulla memoria
+46 Sull’anima
+47 Sull’invidia
+48 Sulla volontà e l’involontario
+49 Sul «conosci te stesso»
+50 Sulla virtù
+51 Sulla legge
+52 Sulla ragione e il ragionamento
+53 Sulla stoltezza
+54 Sulla dissolutezza
+55 Sulla consuetudine e sui costumi
+56 Sulla nobiltà e sulla viltà
+57 Sulla risata
+58 Sui sogni
+59 Sulla bonarietà e la rancorosità
+60 Sulla vita dissoluta
+61 Sul fatto che si debba onorare la virtù e punire la malvagità
+62 Sul fatto che la malvagità è facile e la virtù è sgradevole
+63 Sull’amor proprio
+64 Sul fatto che non sempre il di più è il meglio
+65 Sulla morte
+66 Sulla pace e sulla guerra
+67 Sulla speranza
+68 Sulle donne
+69 Sulla contraddizione e sull’insolenza
+70 Sulla vecchiaia e sulla giovinezza
+71 Sulla pazienza e sulla longanimità
