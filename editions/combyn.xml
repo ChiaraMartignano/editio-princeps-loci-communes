@@ -527,38 +527,38 @@
       
       </div>
       
-      <div type="chapter" n="2" xml:id="EP_c2"  corresp="#G_c2">        
+      <div type="chapter" n="2" xml:id="EP_c2" corresp="#G_c2">        
         
         <head rend="align-center bold">
           De prudentia et consilio. Sermo II.
-        </head>        
+        </head>
         
-        <p xml:id="EP_c2_p1" n="1">
+        <p xml:id="EP_c2_p1" n="1" corresp="#G_c2_p1.1">
           <ref type="source"><choice><abbr>Matth. 2.</abbr><expan/></choice></ref>
           Estote prudentes veluti serpentes, et simplices sicut columbae.
         </p>      
     
       <!--pb n="182" xml:id="p182" facs="182.jpg"/-->
-      <p xml:id="EP_c2_p2" n="2">
+        <p xml:id="EP_c2_p2" n="2" corresp="#G_c2_p2.2">
           <ref type="source"><choice>
               <abbr>2. Cor. 14.</abbr>
               <expan/>
             </choice></ref> Ne sitis pueri mentibus, sed malitia infantes imitamini. Mente autem
           perfecta praediti estote. </p>      
       
-      <p xml:id="EP_c2_p3" n="3">
+        <p xml:id="EP_c2_p3" n="3" corresp="#G_c2_p3.3">
           <ref type="source"><choice>
               <abbr>Proverb. 3.</abbr>
               <expan/>
             </choice></ref> Beatus vir qui invenit sapientiam, et mortalis qui vidit prudentiam.
           Melius est enim hanc mercari, quam aurum aut argentum. </p>      
       
-      <p xml:id="EP_c2_p4" n="4">
+        <p xml:id="EP_c2_p4" n="4" corresp="#G_c2_p4.4">
         <ref type="source"><choice><abbr>Sirach 40.</abbr><expan/></choice></ref>
         Aurum quidem et argentum statum cuiuspiam constabilierint, sed prudentia est utroque commendabilior.
       </p>      
       
-      <p xml:id="EP_c2_p5" n="5">
+        <p xml:id="EP_c2_p5" n="5" corresp="#G_c2_p5.5">
           <ref type="source"><choice>
               <abbr>Sirach 22.</abbr>
               <expan/>
@@ -567,7 +567,7 @@
           sic animus perpenso consilio nullo tempore pertimescet. </p>
       
       
-      <p xml:id="EP_c2_p6" n="6">
+        <p xml:id="EP_c2_p6" n="6" corresp="#G_c2_p6.6">
           <ref type="source"><choice>
               <abbr>S. Basilii.</abbr>
               <expan/>
@@ -579,32 +579,28 @@
           nec vitii pernicie transfigetur unquam. </p>
       
       
-      <p xml:id="EP_c2_p7" n="7">
-        
-        
+        <p xml:id="EP_c2_p7" n="7" corresp="#G_c2_p7.7">        
         <ref type="source"><choice><abbr>Theologi.</abbr><expan/></choice></ref>
-        
         Qui serpentis calliditatem columbinae simplicitati miscuerit, is neque prudentiam malignam, neque simplicitatem stolidam fieri patietur.
-      
-      </p>
-      
-      
-      <p xml:id="EP_c2_p8" n="8">Dixit quidam ex avaris haec verba: "Malim fortunae guttam, quam
-          mentis dolium". Cui respondit unus ex iis qui prudentiam amant, sibi pluris esse mentis
-          stillam, quam fortunae pelagus.</p>
+        </p>
       
       
-      <p xml:id="EP_c2_p9" n="9">
+        <p xml:id="EP_c2_p8" n="8" corresp="#G_c2_p8.8">Dixit quidam ex avaris haec verba: "Malim fortunae guttam, quam
+          mentis dolium". Cui respondit unus ex iis qui prudentiam amant, "sibi pluris esse mentis
+          stillam, quam fortunae pelagus".</p>
+      
+      
+        <p xml:id="EP_c2_p9" n="9" corresp="#G_c2_p9.9">
           <ref type="source"><choice>
               <abbr>Chrysostomi.</abbr>
               <expan/>
             </choice></ref> Fons et mater radixque prudentiae virtus est. Quemadmodum contra omnis
-          improbitas ex amentia capit initium, sicut propheta dixit, "Non est sanitas in carne mea a
-          facie insipientiae meae". At virtutis studiosus, et in dei metu vivens, omnium est
-          prudentissimus. Et recte quidam dicit, metum domini esse sapientiae primordium. </p>
+          improbitas ex amentia capit initium,<!-- L'originale greco termina qui --> sicut propheta dixit, "Non est sanitas in carne mea a
+          facie insipientiae meae". At virtutis studiosus, et in Dei metu vivens, omnium est
+          prudentissimus. Et recte quidam dicit, metum Domini esse sapientiae primordium. </p>
       
       
-      <p xml:id="EP_c2_p10" n="10">
+        <p xml:id="EP_c2_p10" n="10" corresp="#G_c2_p10.10">
           <ref type="source"><choice>
               <abbr>Philonis.</abbr>
               <expan/>
@@ -612,7 +608,7 @@
           imperat, quamvis corporis dominos habeat infinitos. </p>
       
       
-      <p xml:id="EP_c2_p11" n="11">
+        <p xml:id="EP_c2_p11" n="11" corresp="#G_c2_p11.11">
           <ref type="source"><choice>
               <abbr>Ignatii.</abbr>
               <expan/>
@@ -620,7 +616,7 @@
           Deus paratus est praebere. </p>
       
       
-      <p xml:id="EP_c2_p12" n="12">
+        <p xml:id="EP_c2_p12" n="12" corresp="#G_c2_p13.13">
           <ref type="source"><choice>
               <abbr>Plutarchi.</abbr>
               <expan/>
@@ -628,7 +624,7 @@
           ipsis versetur homo. Futura subiiciens oculis, ut eis occurrentibus postea optime utatur. </p>
       
       
-      <p xml:id="EP_c2_p13" n="13">Corpus enim ante tantum oculatum est, retro autem caecum est. At
+        <p xml:id="EP_c2_p13" n="13" corresp="#G_c2_p14.13">Corpus enim ante tantum oculatum est, retro autem caecum est. At
           mens etiam praeterita cernere potest memoria.</p>
       
       
@@ -642,15 +638,14 @@
         </p>
       
       
-      <p xml:id="EP_c2_p15" n="15">Prudentia bonam fortunam ut plurimum donat: fortuna autem prudentiam non efficit.</p>
+        <p xml:id="EP_c2_p15" n="15" corresp="#G_c2_p16.15">Prudentia bonam fortunam ut plurimum donat: fortuna autem prudentiam non efficit.</p>
       
       
-      <p xml:id="EP_c2_p16" n="16">Si quando quempiam peccantem animadverteret, dicebat: "Ne quando
+        <p xml:id="EP_c2_p16" n="16" corresp="#G_c2_p17.16">Si quando quempiam peccantem animadverteret, dicebat: "Ne quando
           etiam ipse in tale quiddam incidam".</p>
       
       
-      <p xml:id="EP_c2_p17" n="17">
-        
+        <p xml:id="EP_c2_p17" n="17" corresp="#G_c2_p20.19">       
         
         <ref type="source"><choice><abbr>Menandri.</abbr><expan/></choice></ref>
         
@@ -659,15 +654,13 @@
       </p>
       
       
-      <p xml:id="EP_c2_p18" n="18">Consultans praeterita sibi exempla futurorum facit. Quod enim obscurum est, ex manifesto celerrime diiudicari et discerni potest.</p>
+        <p xml:id="EP_c2_p18" n="18" corresp="#G_c2_p21.20"><!--Nel greco viene citato Isocrate come fonte-->Consultans praeterita sibi exempla futurorum facit. Quod enim obscurum est, ex manifesto celerrime diiudicari et discerni potest.</p>
       
       
-      <p xml:id="EP_c2_p19" n="19">Qui male suis rebus prospicit, nunquam bene alienis consulet.</p>
+        <p xml:id="EP_c2_p19" n="19" corresp="#G_c2_p22.21">Qui male suis rebus prospicit, nunquam bene alienis consulet.</p>
       
       
-      <p xml:id="EP_c2_p20" n="20">
-        
-        
+        <p xml:id="EP_c2_p20" n="20" corresp="#G_c2_p23.22">
         <ref type="source"><choice><abbr>Isocratis.</abbr><expan/></choice></ref>
         
         Omnia quidem ad vitam pertinentia curato, sed maxime prudentiam tuam exerceto. Nusquam enim maius aliquid minori includitur, quamque bona mens in humano corpore.
@@ -675,7 +668,7 @@
       </p>
       
       
-      <p xml:id="EP_c2_p21" n="21">
+        <p xml:id="EP_c2_p21" n="21" corresp="#G_c2_p26.26">
           <ref type="source"><choice>
               <abbr>Clitarchi.</abbr>
               <expan/>
@@ -683,21 +676,15 @@
           putato. </p>
       
       
-      <p xml:id="EP_c2_p22" n="22">
-        
-        
+        <p xml:id="EP_c2_p22" n="22" corresp="#G_c2_p27.27">
         <ref type="source"><choice><abbr>Demonactis.</abbr><expan/></choice></ref>
-        
         Alienis te exemplis erudito, et nihil mali patieris.
       
       </p>
       
       
-      <p xml:id="EP_c2_p23" n="23">
-        
-        
+        <p xml:id="EP_c2_p23" n="23" corresp="#G_c2_p28.28">
         <ref type="source"><choice><abbr>Ex scriptis Phavorini.</abbr><expan/></choice></ref>
-        
         Tantum prudentiam reliquis virtutibus praestare Solon dicebat, quantum visus        
         reliquos sensus praecellit.
       
@@ -705,7 +692,7 @@
       
     
       <!--pb n="183" xml:id="p183" facs="183.jpg"/-->
-      <p xml:id="EP_c2_p24" n="24">
+        <p xml:id="EP_c2_p24" n="24" corresp="#G_c2_p31.32">
           <ref type="source"><choice>
               <abbr>Choricii.</abbr>
               <expan/>
@@ -713,7 +700,7 @@
           etiam sine viribus saepe multa excogitat. </p>
       
       
-      <p xml:id="EP_c2_p25" n="25">
+        <p xml:id="EP_c2_p25" n="25" corresp="#G_c2_p33.34">
           <ref type="source"><choice>
               <abbr>Aristidis.</abbr>
               <expan/>
@@ -722,8 +709,6 @@
       
       
       <p xml:id="EP_c2_p26" n="26">
-        
-        
         <ref type="source"><choice><abbr>Diodori.</abbr><expan/></choice></ref>
         
         Sapiens consilium multis manibus anteponendum, et sapiens robusto praestat.
@@ -731,17 +716,14 @@
       </p>
       
       
-      <p xml:id="EP_c2_p27" n="27">
-        
-        
+        <p xml:id="EP_c2_p27" n="27" corresp="#G_c2_p39.39">
         <ref type="source"><choice><abbr>Pythagorae.</abbr><expan/></choice></ref>
-        
         Neque equus sine freno, nec divitiae sine prudentia retineri possunt.
       
       </p>
       
       
-      <p xml:id="EP_c2_p28" n="28">
+        <p xml:id="EP_c2_p28" n="28" corresp="#G_c2_p40.40">
         
         
         <ref type="source"><choice><abbr>Gaii.</abbr><expan/></choice></ref>
@@ -751,7 +733,7 @@
       </p>
       
       
-      <p xml:id="EP_c2_p29" n="29">
+        <p xml:id="EP_c2_p29" n="29" corresp="#G_c2_p41.41">
         
         
         <ref type="source"><choice><abbr>Democratis.</abbr><expan/></choice></ref>
@@ -761,7 +743,7 @@
       </p>
       
       
-      <p xml:id="EP_c2_p30" n="30">
+        <p xml:id="EP_c2_p30" n="30" corresp="#G_c2_p42.42">
         
         
         <ref type="source"><choice><abbr>Solonis.</abbr><expan/></choice></ref>
@@ -771,7 +753,7 @@
       </p>
       
       
-      <p xml:id="EP_c2_p31" n="31">
+        <p xml:id="EP_c2_p31" n="31" corresp="#G_c2_p43.43">
           <ref type="source"><choice>
               <abbr>Epicteti.</abbr>
               <expan/>
@@ -779,18 +761,15 @@
           erit dicta vel facta revocare. </p>
       
       
-      <p xml:id="EP_c2_p32" n="32">
-        
-        
+        <p xml:id="EP_c2_p32" n="32" corresp="#G_c2_p-./-./43a">
         <ref type="source"><choice><abbr>Biantis.</abbr><expan/></choice></ref>
-        
         Robusto et valenti esse corpore, naturae munus est: at ea dicere quae patriae prosint,
         id animi proprium est et prudentiae.
       
       </p>
       
       
-      <p xml:id="EP_c2_p33" n="33">Idem interrogatus quis optimus esset consiliarius, "Tempus",
+        <p xml:id="EP_c2_p33" n="33" corresp="#G_c2_p44.44">Idem interrogatus quis optimus esset consiliarius, "Tempus",
           inquit.</p>
       
       
@@ -798,20 +777,20 @@
         iuvari solere: hos enim illorum observare errata, illos autem horum non imitari recte facta.</p>
       
       
-      <p xml:id="EP_c2_p35" n="35">Virum bonum decet praeterita meminisse, instantia agere, et futuris diligenter prospicere.</p>
+        <p xml:id="EP_c2_p35" n="35" corresp="#G_c2_p45.45">Virum bonum decet praeterita meminisse, instantia agere, et futuris diligenter prospicere.</p>
       
       
-      <p xml:id="EP_c2_p36" n="36">Unum est principium bene consultandi, nosse de quo instituatur oratio: sin secus,
+        <p xml:id="EP_c2_p36" n="36" corresp="#G_c2_p-./46.*">Unum est principium bene consultandi, nosse de quo instituatur oratio: sin secus,
         omnino aberrare necesse est.</p>
       
       
-      <p xml:id="EP_c2_p37" n="37">Locorum mutationes neque prudentiam docent, neque insipientiam depellunt.</p>
+        <p xml:id="EP_c2_p37" n="37" corresp="#G_c2_p46.47">Locorum mutationes neque prudentiam docent, neque insipientiam depellunt.</p>
       
       
-      <p xml:id="EP_c2_p38" n="38">Animi magnum frenum est ipsa mens.</p>
+        <p xml:id="EP_c2_p38" n="38" corresp="#G_c2_p47*.48*">Animi magnum frenum est ipsa mens.</p>
       
       
-      <p xml:id="EP_c2_p39" n="39">
+        <p xml:id="EP_c2_p39" n="39" corresp="#G_c2_p-.49">
           <ref type="source"><choice>
               <abbr>Euripidis in Antiope.</abbr>
               <expan/>
@@ -819,7 +798,7 @@
           sapere valeo, idipsum est robusto brachio praestantius. </p>
       
       
-      <p xml:id="EP_c2_p40" n="40">
+        <p xml:id="EP_c2_p40" n="40" corresp="#G_c2_p48.50">
         
         
         <ref type="source"><choice><abbr>Chabriae.</abbr><expan/></choice></ref>
@@ -829,7 +808,7 @@
       </p>
       
       
-      <p xml:id="EP_c2_p41" n="41">
+        <p xml:id="EP_c2_p41" n="41" corresp="#G_c2_p49.51 #G_c2_p50.51">
           <ref type="source"><choice>
               <abbr>Sophoclis in Aiace.</abbr>
               <expan/>
@@ -841,7 +820,7 @@
           omnia complexus habet. </p>
       
       
-      <p xml:id="EP_c2_p42" n="42">
+        <p xml:id="EP_c2_p42" n="42" corresp="#G_c2_p51.52">
         
         
         <ref type="source"><choice><abbr>Herodoti.</abbr><expan/></choice></ref>
