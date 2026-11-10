@@ -510,7 +510,7 @@
       <p xml:id="EP_c1_p67" n="67">Boni cum officium non faciunt, exempla praebent peccare volentibus.</p>
       
       
-        <p xml:id="EP_c1_p68" n="68" corresp="#G_c1_p88.76 #G_c1_p-.77">
+        <p xml:id="EP_c1_p68" n="68" corresp="#G_c1_p80.76 #G_c1_p-.77">
           <ref type="source"><choice>
               <abbr>Hittaci philosophi.</abbr>
               <expan/>
@@ -708,7 +708,7 @@
           et sapientia superare posse, id demum est eorum qui consilio valent. </p>
       
       
-      <p xml:id="EP_c2_p26" n="26">
+        <p xml:id="EP_c2_p26" n="26" corresp="#G_c2_p29.29">
         <ref type="source"><choice><abbr>Diodori.</abbr><expan/></choice></ref>
         
         Sapiens consilium multis manibus anteponendum, et sapiens robusto praestat.
@@ -773,7 +773,7 @@
           inquit.</p>
       
       
-      <p xml:id="EP_c2_p34" n="34">Prudentes dicebat magis ab imprudentibus, quam imprudentes a prudentibus
+        <p xml:id="EP_c2_p34" n="34" corresp="#G_c2_p34.35">Prudentes dicebat magis ab imprudentibus, quam imprudentes a prudentibus
         iuvari solere: hos enim illorum observare errata, illos autem horum non imitari recte facta.</p>
       
       
@@ -2255,36 +2255,30 @@
       
       
       <p xml:id="EP_c6_p86" n="86">
-        
-        
-        <ref type="source"><choice><abbr>Cyrus.</abbr><expan/></choice></ref>
-        
-        Cum quidam ad eum misisset ornamenta multa, ea distribuit amicis: cum autem
-        ex eo quaereretur, cur sibi nihil reliquisset: Quia (inquit) corpus meum his omnibus ornari non possit: amicos autem hisipsis ornatos intuens, maximum mihi ipsi ornaumaptatum esse putabo.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Cyrus.</abbr>
+              <expan/>
+            </choice></ref> Cum quidam ad eum misisset ornamenta multa, ea distribuit amicis. Cum
+          autem ex eo quaereretur, cur sibi nihil reliquisset, "Quia", inquit, "corpus meum his
+          omnibus ornari non possit". Amicos autem hisipsis ornatos intuens, maximum mihi ipsi
+          ornaum aptatum esse putabo. </p>
       
       
       <p xml:id="EP_c6_p87" n="87">
-        
-        
-        <ref type="source"><choice><abbr>Timon.</abbr><expan/></choice></ref>
-        
-        Timon ille qui ab odio hominum Misanthropos Graecis vocabatur, interrogatus
-        cur omnes odisset homines, Quia, inquit, merito improbos odi: reliquos autem, quia
-        improbos non oderunt.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Timon.</abbr>
+              <expan/>
+            </choice></ref> Timon ille qui ab odio hominum "Misanthropos" Graecis vocabatur,
+          interrogatus cur omnes odisset homines, "Quia", inquit, "merito improbos odi. Reliquos
+          autem, quia improbos non oderunt". </p>
       
       
       <p xml:id="EP_c6_p88" n="88">
-        
-        
-        <ref type="source"><choice><abbr>Romulus.</abbr><expan/></choice></ref>
-        
-        Romulus cum ei crimini verteretur quod cum improbis versaretur: Et medici (inquit) cum aegrotis, sed ipsi valent.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Romulus.</abbr>
+              <expan/>
+            </choice></ref> Romulus cum ei crimini verteretur quod cum improbis versaretur, "Et
+          medici", inquit, "cum aegrotis, sed ipsi valent". </p>
       
       
       <p xml:id="EP_c6_p89" n="89">
@@ -2301,37 +2295,32 @@
       
       
       <p xml:id="EP_c6_p91" n="91">
-        
-        
-        <ref type="source"><choice><abbr>Antigoni regis.</abbr><expan/></choice></ref>
-        
-        Hic diis sacrificans precabatur, ut se a simulatis servarent amicis: cumque percunctaretur quispiam quamobrem tale quid a diis optaret: Quia, inquit, hostes cum cognosco, caveo.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Antigoni regis.</abbr>
+              <expan/>
+            </choice></ref> Hic diis sacrificans precabatur, ut se a simulatis servarent amicis.
+          Cumque percunctaretur quispiam quamobrem tale quid a diis optaret, "Quia", inquit, "hostes
+          cum cognosco, caveo". </p>
       
       
       <p xml:id="EP_c6_p92" n="92">
-        
-        
-        <ref type="source"><choice><abbr>Alexander.</abbr><expan/></choice></ref>
-        
-        Interrogatus a quopiam ubi thesauros haberet, amicos ostendens, In his, inquit.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Alexander.</abbr>
+              <expan/>
+            </choice></ref> Interrogatus a quopiam ubi thesauros haberet, amicos ostendens, "In
+          his", inquit. </p>
       
       
       <p xml:id="EP_c6_p93" n="93">
-        
-        
-        <ref type="source"><choice><abbr>Libanii.</abbr><expan/></choice></ref>
-        
-        Congratulandum est amicis cum praeclare cum illis agitur: ut contra condolescendum si dolore afficiuntur.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Libanii.</abbr>
+              <expan/>
+            </choice></ref> Congratulandum est amicis cum praeclare cum illis agitur. Ut contra
+          condolescendum si dolore afficiuntur. </p>
       
       
-      <p xml:id="EP_c6_p94" n="94">Molestiae quae ab amicis inter se excitantur, sunt curatum difficiles tomnino, graviusque
-        quam hostium contumeliae offendunt.</p>
+      <p xml:id="EP_c6_p94" n="94">Molestiae quae ab amicis inter se excitantur, sunt curatu
+          difficiles tomnino, graviusque quam hostium contumeliae offendunt.</p>
       
       
       <p xml:id="EP_c6_p95" n="95">
@@ -2342,11 +2331,8 @@
         Quanto fortiores amicos reddideris, tanto ipse fortior evadis.
         
       </p>
-        <p xml:id="EP_c6_p96" n="96">
-        
-        Quae calamitas extra amicitiam non intolerabilis? quae prosperitas remota amicitia, non iniucunda est?
-      
-      </p>
+        <p xml:id="EP_c6_p96" n="96"> Quae calamitas extra amicitiam non intolerabilis? Quae
+          prosperitas remota amicitia, non iniucunda est? </p>
       
     
       <!--pb n="193" xml:id="p193" facs="193.jpg"/-->
@@ -4230,7 +4216,7 @@
         
         <ref type="source"><choice><abbr>Didymi.</abbr><expan/></choice></ref>
         
-        Maiore et diligentiore cura foueto, quos virtutis et pietatis causa scis in paupertatem incidisse,
+        Maiore et diligentiore cura foveto, quos virtutis et pietatis causa scis in paupertatem incidisse,
         quam aliter paupertate pressos: praeterea magis curandi qui ex morbo
         aut infortunio egentes sunt facti, quam qui ex maleficio aut luxu.
       
