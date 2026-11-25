@@ -2348,25 +2348,19 @@
       
       
       <p xml:id="EP_c6_p100" n="100">
-        
-        
-        <ref type="source"><choice><abbr>Menandri.</abbr><expan/></choice></ref>
-        
-        Arcana ne prodas amico, sed tegas.
-      
-      </p>
+          <ref type="source"><choice>
+              <abbr>Menandri.</abbr>
+              <expan/>
+            </choice></ref> Arcana ne prodas amico, sed tegas. Sic non timebis, factus hostis si fuat.</p>
       
       
-      <p xml:id="EP_c6_p101" n="101">Sic non timebis, factus hostis si fuat.</p>
-      
-      
-      <p xml:id="EP_c6_p102" n="102">
+      <p xml:id="EP_c6_p101" n="101">
         
         
         <ref type="source"><choice><abbr>Philistionis.</abbr><expan/></choice></ref>
         
         Ne propter iram amici arcana enuncies,
-        <lb/>Sperans eum rursus tibi amicum fore.
+        <!--lb/--> sperans eum rursus tibi amicum fore.
       
       </p>
         
@@ -2394,7 +2388,7 @@
           <ref type="source"><choice>
               <abbr>Galat. 6.</abbr>
               <expan/>
-            </choice></ref> Beneficentiae et communionis nolite oblivisci: talibus enim sacrificiis
+            </choice></ref> Beneficentiae et communionis nolite oblivisci; talibus enim sacrificiis
           placatur Deus. </p>
         
         
@@ -2408,17 +2402,17 @@
         </p>
         
         
-        <p xml:id="EP_c7_p4" n="4">Egenti benefacere ne cessato: quum potest manus tua auxiliari, ne dicas illi esse revertendum, ut postridie accipiat, si potes in praesens benefacere: nescis enim quid sitpostera dies paritura.</p>
+        <p xml:id="EP_c7_p4" n="4">Egenti benefacere ne cessato: quum potest manus tua auxiliari, ne
+          dicas illi esse revertendum, ut postridie accipiat, si potes in praesens benefacere;
+          nescis enim quid sit postera dies paritura.</p>
         
         
         <p xml:id="EP_c7_p5" n="5">
-          
-          
-          <ref type="source"><choice><abbr>Sirach 3.</abbr><expan/></choice></ref>
-          
-          Ignem accensum extinguit aqua: et eleemosyna peccatis deum propitium reddit.
-        
-        </p>
+          <ref type="source"><choice>
+              <abbr>Sirach 3.</abbr>
+              <expan/>
+            </choice></ref> Ignem accensum extinguit aqua, et eleemosyna peccatis Deum propitium
+          reddit. </p>
         
         
         <p xml:id="EP_c7_p6" n="6">
@@ -2459,18 +2453,22 @@
           
           <ref type="source"><choice><abbr>Theologi.</abbr><expan/></choice></ref>
           
-          Pauper accessit, deinde nihil accipiens recessit.Vereor Christe ne ego quoque de manu tua nihil accipiam.Qui enim nihil dederit, nihil se accepturum speret.
+          Pauper accessit, deinde nihil accipiens recessit.<!--lb/-->
+          Vereor Christe ne ego quoque de manu tua nihil accipiam.
+          <!--lb/-->Qui enim nihil dederit, nihil se accepturum speret.
         
         </p>
         
         
-        <p xml:id="EP_c7_p13" n="13">Beneficio afficere quam affici honoratius est: et misericordia magis quam lucrum expetenda est.</p>
+        <p xml:id="EP_c7_p13" n="13">Beneficio afficere quam affici honoratius est, et misericordia
+          magis quam lucrum expetenda est.</p>
         
         
-        <p xml:id="EP_c7_p14" n="14">Si quid largiris, vide ne murmures, quod multi factitant, dantes quidem, sed parum
-          alacriter: Atqui alacritas dandi, ipsa largitione maius quid et perfectius est.
-          Neque vero inquirendum de accepturo beneficentiam, dignus ne sit an indignus. Multo enim
-          melius est propter dignos indignis etiam dare, quam propter indignos fraudare dignos.</p>
+        <p xml:id="EP_c7_p14" n="14">Si quid largiris, vide ne murmures, quod multi factitant,
+          dantes quidem, sed parum alacriter. Atqui alacritas dandi, ipsa largitione maius quid et
+          perfectius est. Neque vero inquirendum de accepturo beneficentiam, dignus ne sit an
+          indignus. Multo enim melius est propter dignos indignis etiam dare, quam propter indignos
+          fraudare dignos.</p>
         
         
         <p xml:id="EP_c7_p15" n="15">Melius est pro facultate aliquid afferre, quam nihil omnino dare: non enim qui non
@@ -2488,7 +2486,8 @@
           a parvo magna quaerere, atque a magno parva: illud enim intempestivum, hoc vero sordidum fuerit.</p>
         
         
-        <p xml:id="EP_c7_p19" n="19">Age gratias deo, quod ex eorum sis numero, qui beneficia in alios conferre possunt, non autem ex eis qui ut beneficiis afficiantur indigent.</p>
+        <p xml:id="EP_c7_p19" n="19">Age gratias Deo, quod ex eorum sis numero, qui beneficia in
+          alios conferre possunt, non autem ex eis qui ut beneficiis afficiantur indigent.</p>
         
         
         <p xml:id="EP_c7_p20" n="20">
